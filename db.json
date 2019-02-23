@@ -1,27 +1,34 @@
-{sections:[
-  {title:"Products",
-  type:"products",
-  productCount:3
-
-  },
-  {title:"Services",
-  type:"services",
-  productCount:3
-  },
-  {title:"About",
-  type:"about",
-  productCount:3
-  },
-  {title:"Team",
-  type:"team",
-  productCount:3
-  },
-  {title:"contact",
-  type:"contact",
-  productCount:3
-  },
-  {title:"query",
-  type:"query",
-  productCount:3
-  }
-]}
+{
+	"sections": [
+		{
+			"title": "Products",
+			"type": "products",
+			"productCount": 3
+		},
+		{
+			"title": "Services",
+			"type": "services",
+			"productCount": 3
+		},
+		{
+			"title": "About",
+			"type": "about",
+			"productCount": 3
+		},
+		{
+			"title": "Team",
+			"type": "team",
+			"productCount": 3
+		},
+		{
+			"title": "contact",
+			"type": "contact",
+			"productCount": 3
+		},
+		{
+			"title": "query",
+			"type": "query",
+			"productCount": 3
+		}
+	]
+}
