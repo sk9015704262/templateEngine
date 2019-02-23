@@ -1,10 +1,36 @@
 {
-	"posts": {
+	"app": {
+		"websiteInfo": {
+			"name": "businus.com",
+			"bannerImageUrl": "https://wallpapertag.com/wallpaper/full/a/e/1/642877-cool-wallpaper-laptop-2560x1600-for-hd-1080p.jpg",
+			"websiteTitle": "My Website",
+			"subTitle": "Add your content here"
+		},
+		"userInfo": {
+			"name": "Megha",
+			"email": "meghagautam2@gmail.com"
+		},
 		"sections": [
 			{
 				"title": "Products",
 				"type": "products",
-				"productCount": 3
+				"productCount": 3,
+				"styles": {
+					"backgroundColor": "#fff",
+					"padding": "60px 10px 60px 10px",
+					"margin": "100px 0px 0px 0px",
+					"color": "black",
+					"backgroundImage": "url('https://webdesignerdepot.s3.amazonaws.com/default-images/26.jpg')"
+				},
+				"innerProducts": {
+					"name": "Product1",
+					"icon": "https://image.flaticon.com/icons/png/512/33/33750.png",
+					"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"showImageBox": false,
+					"showHeadBox": false,
+					"showContentBox": false,
+					"toggleEditMode": false
+				}
 			},
 			{
 				"title": "Services",
@@ -31,6 +57,11 @@
 				"type": "query",
 				"productCount": 3
 			}
-		]
+		],
+		"footer": {
+			"facebook": "",
+			"twitter": "",
+			"linkedin": ""
+		}
 	}
 }
