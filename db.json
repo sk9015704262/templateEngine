@@ -1,4 +1,5 @@
 {
+	"posts": {
 	"sections": [
 		{
 			"title": "Products",
@@ -30,5 +31,5 @@
 			"type": "query",
 			"productCount": 3
 		}
-	]
+	]}
 }
