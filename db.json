@@ -16,13 +16,13 @@
 				"type": "products",
 				"productCount": 3,
 				"styles": {
-					"backgroundColor": "#fff",
+					"backgroundColor": "#000",
 					"padding": "60px 10px 60px 10px",
 					"margin": "100px 0px 0px 0px",
 					"color": "black",
 					"backgroundImage": "url('https://webdesignerdepot.s3.amazonaws.com/default-images/26.jpg')"
 				},
-				"innerProducts": {
+				"innerProducts": [{
 					"name": "Product1",
 					"icon": "https://image.flaticon.com/icons/png/512/33/33750.png",
 					"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -30,7 +30,23 @@
 					"showHeadBox": false,
 					"showContentBox": false,
 					"toggleEditMode": false
-				}
+				},{
+					"name": "Product2",
+					"icon": "https://image.flaticon.com/icons/png/512/33/33750.png",
+					"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"showImageBox": false,
+					"showHeadBox": false,
+					"showContentBox": false,
+					"toggleEditMode": false
+				},{
+					"name": "Product3",
+					"icon": "https://image.flaticon.com/icons/png/512/33/33750.png",
+					"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"showImageBox": false,
+					"showHeadBox": false,
+					"showContentBox": false,
+					"toggleEditMode": false
+				}]
 			},
 			{
 				"title": "Services",
